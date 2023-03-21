@@ -1,0 +1,13 @@
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\bin\Debug\Stage_3_(C Sharp).exe.config
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\bin\Debug\Stage_3_(C Sharp).exe
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\bin\Debug\Stage_3_(C Sharp).pdb
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).csproj.AssemblyReference.cache
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).csproj.SuggestedBindingRedirects.cache
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3__C_Sharp_.Form1.resources
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3__C_Sharp_.Properties.Resources.resources
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).csproj.GenerateResource.cache
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).csproj.CoreCompileInputs.cache
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).exe
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).pdb
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\bin\Debug\WebDriver.dll
+F:\Documents\Программирование\Курсовая КонЮхова 3 этап\Stage_3_(C Sharp)\obj\Debug\Stage_3_(C Sharp).csproj.CopyComplete
